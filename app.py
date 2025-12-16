@@ -116,7 +116,7 @@ class QRApp:
         welcome.pack(fill="both", expand=True)
 
         try:
-            image = Image.open("welcom.jpg")
+            image = Image.open("welcome.jpg")
             image = image.resize((500, 300), Image.Resampling.LANCZOS)
             self.bg_img = ImageTk.PhotoImage(image)
             img_label = tk.Label(welcome, image=self.bg_img, bg="#0F111A")
@@ -379,3 +379,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = QRApp(root)
     root.mainloop()
+
