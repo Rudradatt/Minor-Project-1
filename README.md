@@ -35,7 +35,7 @@ The system scans QR codes placed at project stations and automatically displays 
 
  📂 Project Structure
 
-IoT-Lab-Assistant/<br>
+Lab-Assistant-Code/<br>
 ├── app.py<br>
 ├── projects.db<br>
 ├── welcome.jpg<br>
