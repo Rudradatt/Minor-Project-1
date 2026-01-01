@@ -97,8 +97,18 @@ Example:
 
 ---
 Step 3: Add Project Audio
-Audio file must be placed in the audio folder.
-audio/2.mp3
+
+1.Audio Generation
+
+    a.Audio files for new projects are generated using ElevenLabs Text-to-Speech
+
+    b.Voice Artist: Monika Sogam (Professional Customer Care Agent)
+
+    c.Speech speed is adjusted for clear and natural delivery
+
+2.Place the generated audio file inside the audio/ folder
+
+ >audio/2.mp3 
 
 ---
 
